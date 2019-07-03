@@ -1,0 +1,1 @@
+Trabalho feito por Gabriel Faria e Ana Maria Pego, fizemos juntos no jupyter salvo em .ipynb
